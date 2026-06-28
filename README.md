@@ -271,13 +271,3 @@ Projects
     ↓
 Interview Preparation
 ```
-
----
-
-# 🎯 Goal
-
-- Build strong fundamentals.
-- Complete real-world projects.
-- Master modern AI Engineering.
-- Crack AI Engineer interviews.
-- Land an AI Engineer role.
