@@ -1,28 +1,11 @@
-# AiEngineer (Roadmap)
+```md
+# AI Engineer Roadmap (2026)
 
-
--Maths
--Python 
-  Library:Numpy,Pandas,Matplotlib
--ML Fundamentals
-  Frameworks:Scikit Learn
-
--Deepleaning
-  Framework: Tensorflow
--GenAI
--Vector DB
--RAG
--Lang Chain
--AI Agents
-
-
-# 🚀 AI Engineer Roadmap (2026)
-
-> A complete roadmap to become an AI Engineer from scratch.
+> My roadmap to becoming an AI Engineer.
 
 ---
 
-## 📚 1. Programming Fundamentals
+## 1. Programming Fundamentals
 
 - [ ] Python
 - [ ] Object-Oriented Programming (OOP)
@@ -33,60 +16,67 @@
 
 ---
 
-## 🗄️ 2. SQL & Databases
+## 2. SQL & Databases
 
 - [ ] SQL
 - [ ] PostgreSQL / MySQL
 - [ ] Database Design
 - [ ] Joins
 - [ ] Window Functions
-- [ ] CTEs
-- [ ] Stored Procedures (Optional)
+- [ ] Common Table Expressions (CTEs)
+- [ ] Stored Procedures *(Optional)*
 
 ---
 
-## 📐 3. Mathematics
+## 3. Mathematics
 
-### Statistics
+### 3.1 Statistics
+
 - [ ] Mean
 - [ ] Median
 - [ ] Mode
 - [ ] Variance
 - [ ] Standard Deviation
 
-### Probability
+### 3.2 Probability
+
 - [ ] Probability Basics
-- [ ] Bayes Theorem
+- [ ] Bayes' Theorem
 - [ ] Probability Distributions
 
-### Linear Algebra
+### 3.3 Linear Algebra
+
 - [ ] Vectors
 - [ ] Matrices
 - [ ] Matrix Multiplication
-- [ ] Eigenvalues & Eigenvectors
+- [ ] Eigenvalues
+- [ ] Eigenvectors
 
-### Calculus
+### 3.4 Calculus
+
 - [ ] Derivatives
-- [ ] Gradient Descent (Concept)
+- [ ] Gradient Descent
 
 ---
 
-## 🐍 4. Python Libraries
+## 4. Python Libraries
 
 - [ ] NumPy
 - [ ] Pandas
 - [ ] Matplotlib
 - [ ] Seaborn
-- [ ] Plotly (Optional)
+- [ ] Plotly *(Optional)*
 
 ---
 
-## 🤖 5. Machine Learning
+## 5. Machine Learning
 
-### Framework
+### 5.1 Framework
+
 - [ ] Scikit-learn
 
-### Topics
+### 5.2 Topics
+
 - [ ] Regression
 - [ ] Classification
 - [ ] Clustering
@@ -98,32 +88,34 @@
 
 ---
 
-## 🧠 6. Deep Learning
+## 6. Deep Learning
 
-### Framework
+### 6.1 Framework
+
 - [ ] TensorFlow
 
-### Topics
+### 6.2 Topics
+
 - [ ] Artificial Neural Networks (ANN)
-- [ ] CNN
-- [ ] RNN
-- [ ] LSTM
+- [ ] Convolutional Neural Networks (CNN)
+- [ ] Recurrent Neural Networks (RNN)
+- [ ] Long Short-Term Memory (LSTM)
 - [ ] Transformers
 - [ ] Transfer Learning
 
 ---
 
-## 👁️ 7. Computer Vision
+## 7. Computer Vision
 
 - [ ] OpenCV
 - [ ] Image Classification
 - [ ] Object Detection
 - [ ] YOLO
-- [ ] OCR
+- [ ] Optical Character Recognition (OCR)
 
 ---
 
-## 💬 8. Natural Language Processing (NLP)
+## 8. Natural Language Processing (NLP)
 
 - [ ] Text Preprocessing
 - [ ] Tokenization
@@ -132,25 +124,25 @@
 
 ---
 
-## ✨ 9. Generative AI
+## 9. Generative AI
 
-- [ ] LLM Fundamentals
+- [ ] Large Language Model Fundamentals
 - [ ] Prompt Engineering
-- [ ] Fine-Tuning Basics
+- [ ] Fine-tuning
 - [ ] Function Calling
 - [ ] Structured Outputs
 
 ---
 
-## 🗃️ 10. Vector Databases
+## 10. Vector Databases
 
 - [ ] FAISS
 - [ ] ChromaDB
-- [ ] Pinecone (Concept)
+- [ ] Pinecone
 
 ---
 
-## 📖 11. Retrieval-Augmented Generation (RAG)
+## 11. Retrieval-Augmented Generation (RAG)
 
 - [ ] Embeddings
 - [ ] Chunking
@@ -160,15 +152,15 @@
 
 ---
 
-## 🔗 12. AI Frameworks
+## 12. AI Frameworks
 
 - [ ] LangChain
 - [ ] LlamaIndex
-- [ ] MCP (Model Context Protocol)
+- [ ] Model Context Protocol (MCP)
 
 ---
 
-## 🤖 13. AI Agents
+## 13. AI Agents
 
 - [ ] Tool Calling
 - [ ] Memory
@@ -177,7 +169,7 @@
 
 ---
 
-## 🌐 14. APIs
+## 14. APIs
 
 - [ ] REST APIs
 - [ ] FastAPI
@@ -185,7 +177,7 @@
 
 ---
 
-## 🚀 15. Deployment
+## 15. Deployment
 
 - [ ] Git
 - [ ] GitHub
@@ -195,15 +187,15 @@
 
 ---
 
-## ☁️ 16. Cloud
+## 16. Cloud
 
-Choose One:
+Choose one:
 
 - [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
+- [ ] Microsoft Azure
+- [ ] Google Cloud Platform (GCP)
 
-Learn:
+Core Concepts
 
 - [ ] Storage
 - [ ] Compute
@@ -211,7 +203,7 @@ Learn:
 
 ---
 
-## ⚙️ 17. MLOps (Beginner)
+## 17. MLOps
 
 - [ ] MLflow
 - [ ] Experiment Tracking
@@ -220,7 +212,7 @@ Learn:
 
 ---
 
-## 📂 18. Projects
+## 18. Projects
 
 - [ ] Data Science Project
 - [ ] Machine Learning Project
@@ -232,70 +224,13 @@ Learn:
 
 ---
 
-## 💼 19. Interview Preparation
+## 19. Interview Preparation
 
-- [ ] Python Interview Questions
-- [ ] SQL Interview Questions
-- [ ] Machine Learning Interview Questions
-- [ ] Deep Learning Interview Questions
-- [ ] Generative AI Interview Questions
-- [ ] HR Interview Questions
+- [ ] Python
+- [ ] SQL
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] Generative AI
+- [ ] HR Interview
 - [ ] Mock Interviews
-
----
-
-# 🛣️ Learning Order
-
-```text
-Python
-    ↓
-SQL
-    ↓
-Mathematics
-    ↓
-NumPy
-    ↓
-Pandas
-    ↓
-Matplotlib
-    ↓
-Machine Learning
-    ↓
-Deep Learning
-    ↓
-Computer Vision
-    ↓
-Natural Language Processing
-    ↓
-Generative AI
-    ↓
-Vector Databases
-    ↓
-RAG
-    ↓
-LangChain
-    ↓
-LlamaIndex
-    ↓
-AI Agents
-    ↓
-FastAPI
-    ↓
-Docker
-    ↓
-Cloud
-    ↓
-Projects
-    ↓
-Interview Preparation
 ```
-
----
-
-# 🎯 Goal
-
-- Build strong fundamentals.
-- Complete real-world projects.
-- Master modern AI Engineering.
-- Crack AI Engineer interviews.
-- Land an AI Engineer role.
