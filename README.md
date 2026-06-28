@@ -1,4 +1,4 @@
-# 🤖 AI Engineer Bootcamp
+# AI Engineer Bootcamp
 
 > A hands-on portfolio documenting my journey to become an AI Engineer through real-world projects and labs.  
 
