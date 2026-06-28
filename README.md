@@ -1,101 +1,269 @@
-# AI Engineer Roadmap (2026)
+# AI Engineer Roadmap
 
-> A complete roadmap to become an AI Engineer.
+> My personal roadmap to becoming an AI Engineer.
 
 ---
 
-## 📚 1. Programming Fundamentals
+# Learning Philosophy
 
-- [ ] Python
-- [ ] Object-Oriented Programming (OOP)
-- [ ] Data Structures
-- [ ] Algorithms (Interview Level)
-- [ ] Exception Handling
+- Learn one topic at a time.
+- Build projects after every major topic.
+- Focus on understanding, not memorization.
+- Write notes in your own words.
+- Practice every day.
+- Never copy code without understanding it.
+
+---
+
+# Programming
+
+## Python
+
+### Fundamentals
+
+- [ ] Syntax
+- [ ] Variables
+- [ ] Data Types
+- [ ] Operators
+- [ ] Input & Output
+
+### Control Flow
+
+- [ ] If / Else
+- [ ] Loops
+- [ ] List Comprehension
+
+### Data Structures
+
+- [ ] Lists
+- [ ] Tuples
+- [ ] Sets
+- [ ] Dictionaries
+
+### Functions
+
+- [ ] Functions
+- [ ] Lambda
+- [ ] Map
+- [ ] Filter
+- [ ] Recursion
+
+### Object-Oriented Programming
+
+- [ ] Classes
+- [ ] Objects
+- [ ] Inheritance
+- [ ] Polymorphism
+- [ ] Encapsulation
+- [ ] Abstraction
+
+### Advanced Python
+
+- [ ] Modules
+- [ ] Packages
 - [ ] File Handling
+- [ ] Exception Handling
+- [ ] Decorators
+- [ ] Iterators
+- [ ] Generators
+- [ ] Logging
+- [ ] Multithreading
+- [ ] Multiprocessing
+
+### Practice
+
+- [ ] 100 Python Problems
+- [ ] Mini Projects
 
 ---
 
-## 🗄️ 2. SQL & Databases
+# SQL & Databases
 
-- [ ] SQL
-- [ ] PostgreSQL / MySQL
-- [ ] Database Design
-- [ ] Joins
+## SQL
+
+- [ ] SELECT
+- [ ] WHERE
+- [ ] ORDER BY
+- [ ] GROUP BY
+- [ ] HAVING
+- [ ] CASE
+- [ ] Aggregate Functions
+
+## Joins
+
+- [ ] INNER JOIN
+- [ ] LEFT JOIN
+- [ ] RIGHT JOIN
+- [ ] FULL JOIN
+
+## Advanced SQL
+
+- [ ] Subqueries
+- [ ] CTE
 - [ ] Window Functions
-- [ ] CTEs
-- [ ] Stored Procedures (Optional)
+- [ ] Views
+- [ ] Indexes
+
+## Databases
+
+- [ ] SQLite
+- [ ] PostgreSQL
+- [ ] MongoDB Basics
 
 ---
 
-## 📐 3. Mathematics
+# Mathematics
 
-### Statistics
+## Statistics
+
 - [ ] Mean
 - [ ] Median
 - [ ] Mode
 - [ ] Variance
 - [ ] Standard Deviation
+- [ ] Correlation
+- [ ] Covariance
+- [ ] Percentiles
+- [ ] Hypothesis Testing
+- [ ] ANOVA
+- [ ] Chi-Square Test
 
-### Probability
-- [ ] Probability Basics
+## Probability
+
 - [ ] Bayes Theorem
-- [ ] Probability Distributions
+- [ ] Probability Rules
+- [ ] Random Variables
+- [ ] Normal Distribution
+- [ ] Binomial Distribution
+- [ ] Poisson Distribution
+- [ ] Central Limit Theorem
 
-### Linear Algebra
+## Linear Algebra
+
 - [ ] Vectors
 - [ ] Matrices
 - [ ] Matrix Multiplication
-- [ ] Eigenvalues & Eigenvectors
+- [ ] Eigenvalues
+- [ ] Eigenvectors
 
-### Calculus
+## Calculus
+
 - [ ] Derivatives
-- [ ] Gradient Descent (Concept)
+- [ ] Chain Rule
+- [ ] Gradient Descent
 
 ---
 
-## 🐍 4. Python Libraries
+# Python Libraries
 
 - [ ] NumPy
 - [ ] Pandas
 - [ ] Matplotlib
 - [ ] Seaborn
-- [ ] Plotly (Optional)
+- [ ] Plotly
 
 ---
 
-## 🤖 5. Machine Learning
+# Data Analysis
 
-### Framework
-- [ ] Scikit-learn
-
-### Topics
-- [ ] Regression
-- [ ] Classification
-- [ ] Clustering
+- [ ] Data Cleaning
+- [ ] Missing Values
+- [ ] Outlier Handling
 - [ ] Feature Engineering
-- [ ] Feature Selection
-- [ ] Model Evaluation
+- [ ] Data Visualization
+- [ ] Exploratory Data Analysis (EDA)
+
+---
+
+# Machine Learning
+
+## Fundamentals
+
+- [ ] Supervised Learning
+- [ ] Unsupervised Learning
+- [ ] Reinforcement Learning (Basics)
+
+## Regression
+
+- [ ] Linear Regression
+- [ ] Polynomial Regression
+- [ ] Ridge
+- [ ] Lasso
+- [ ] ElasticNet
+
+## Classification
+
+- [ ] Logistic Regression
+- [ ] KNN
+- [ ] Naive Bayes
+- [ ] SVM
+- [ ] Decision Tree
+- [ ] Random Forest
+- [ ] XGBoost
+- [ ] AdaBoost
+- [ ] Gradient Boosting
+
+## Clustering
+
+- [ ] K-Means
+- [ ] Hierarchical
+- [ ] DBSCAN
+
+## Dimensionality Reduction
+
+- [ ] PCA
+
+## Model Evaluation
+
+- [ ] Train/Test Split
 - [ ] Cross Validation
 - [ ] Hyperparameter Tuning
+- [ ] ROC-AUC
+- [ ] Precision
+- [ ] Recall
+- [ ] F1 Score
 
 ---
 
-## 🧠 6. Deep Learning
+# Deep Learning
 
-### Framework
-- [ ] TensorFlow
+## Neural Networks
 
-### Topics
-- [ ] Artificial Neural Networks (ANN)
-- [ ] CNN
-- [ ] RNN
-- [ ] LSTM
-- [ ] Transformers
+- [ ] Perceptron
+- [ ] ANN
+- [ ] Backpropagation
+- [ ] Optimizers
+- [ ] Activation Functions
+
+## CNN
+
+- [ ] Convolution
+- [ ] Pooling
 - [ ] Transfer Learning
 
+## RNN
+
+- [ ] RNN
+- [ ] LSTM
+- [ ] GRU
+- [ ] Bidirectional RNN
+
+## Transformers
+
+- [ ] Self Attention
+- [ ] Multi-Head Attention
+- [ ] Positional Encoding
+- [ ] Encoder
+- [ ] Decoder
+
+Framework
+
+- [ ] TensorFlow
+- [ ] Keras
+
 ---
 
-## 👁️ 7. Computer Vision
+# Computer Vision
 
 - [ ] OpenCV
 - [ ] Image Classification
@@ -105,52 +273,64 @@
 
 ---
 
-## 💬 8. Natural Language Processing (NLP)
+# Natural Language Processing
 
 - [ ] Text Preprocessing
 - [ ] Tokenization
-- [ ] Word Embeddings
+- [ ] Stemming
+- [ ] Lemmatization
+- [ ] TF-IDF
+- [ ] Bag of Words
+- [ ] Word2Vec
+- [ ] Named Entity Recognition
+- [ ] Sentiment Analysis
+
+Libraries
+
+- [ ] NLTK
+- [ ] spaCy
 - [ ] Hugging Face Transformers
 
 ---
 
-## ✨ 9. Generative AI
+# Generative AI
 
 - [ ] LLM Fundamentals
 - [ ] Prompt Engineering
-- [ ] Fine-Tuning Basics
+- [ ] Embeddings
+- [ ] Fine-Tuning
 - [ ] Function Calling
-- [ ] Structured Outputs
+- [ ] Structured Output
 
 ---
 
-## 🗃️ 10. Vector Databases
+# Vector Databases
 
 - [ ] FAISS
 - [ ] ChromaDB
-- [ ] Pinecone (Concept)
+- [ ] Pinecone
 
 ---
 
-## 📖 11. Retrieval-Augmented Generation (RAG)
+# Retrieval-Augmented Generation (RAG)
 
-- [ ] Embeddings
 - [ ] Chunking
+- [ ] Embeddings
 - [ ] Retrieval
 - [ ] Re-ranking
 - [ ] Evaluation
 
 ---
 
-## 🔗 12. AI Frameworks
+# AI Frameworks
 
 - [ ] LangChain
 - [ ] LlamaIndex
-- [ ] MCP (Model Context Protocol)
+- [ ] Model Context Protocol (MCP)
 
 ---
 
-## 🤖 13. AI Agents
+# AI Agents
 
 - [ ] Tool Calling
 - [ ] Memory
@@ -159,15 +339,16 @@
 
 ---
 
-## 🌐 14. APIs
+# APIs
 
-- [ ] REST APIs
+- [ ] REST API
+- [ ] Flask
 - [ ] FastAPI
-- [ ] API Integration
+- [ ] Streamlit
 
 ---
 
-## 🚀 15. Deployment
+# Deployment
 
 - [ ] Git
 - [ ] GitHub
@@ -177,15 +358,15 @@
 
 ---
 
-## ☁️ 16. Cloud
+# Cloud
 
-Choose One:
+Choose One
 
 - [ ] AWS
 - [ ] Azure
-- [ ] Google Cloud
+- [ ] Google Cloud Platform
 
-Learn:
+Learn
 
 - [ ] Storage
 - [ ] Compute
@@ -193,81 +374,101 @@ Learn:
 
 ---
 
-## ⚙️ 17. MLOps (Beginner)
+# MLOps
 
 - [ ] MLflow
+- [ ] DVC
 - [ ] Experiment Tracking
-- [ ] Model Versioning
-- [ ] CI/CD Basics
+- [ ] Model Registry
+- [ ] CI/CD
+- [ ] BentoML
 
 ---
 
-## 📂 18. Projects
+# Projects
 
-- [ ] Data Science Project
-- [ ] Machine Learning Project
-- [ ] Computer Vision Project
-- [ ] NLP Project
-- [ ] RAG Project
-- [ ] AI Agent Project
-- [ ] End-to-End Deployment Project
+## Data Science
+
+- [ ] House Price Prediction
+- [ ] Flight Price Prediction
+- [ ] Auto Price Prediction
+- [ ] Home Loan Prediction
+- [ ] Hospital Stay Prediction
+
+## Machine Learning
+
+- [ ] Classification Project
+- [ ] Regression Project
+- [ ] Clustering Project
+
+## Deep Learning
+
+- [ ] ANN Project
+- [ ] CNN Project
+- [ ] LSTM Project
+
+## Computer Vision
+
+- [ ] Image Classification
+- [ ] Object Detection
+- [ ] OCR
+
+## NLP
+
+- [ ] Spam Detection
+- [ ] Sentiment Analysis
+
+## AI Engineering
+
+- [ ] RAG Chatbot
+- [ ] AI Agent
+- [ ] Document Q&A
+- [ ] End-to-End AI Application
 
 ---
 
-## 💼 19. Interview Preparation
+# Interview Preparation
 
-- [ ] Python Interview Questions
-- [ ] SQL Interview Questions
-- [ ] Machine Learning Interview Questions
-- [ ] Deep Learning Interview Questions
-- [ ] Generative AI Interview Questions
-- [ ] HR Interview Questions
-- [ ] Mock Interviews
+## Python
+
+- [ ] Interview Questions
+- [ ] Coding Practice
+
+## SQL
+
+- [ ] Interview Questions
+- [ ] 100 SQL Problems
+
+## Machine Learning
+
+- [ ] Theory
+- [ ] Model Comparison
+- [ ] Case Studies
+
+## Deep Learning
+
+- [ ] Theory
+- [ ] CNN
+- [ ] Transformers
+
+## AI Engineering
+
+- [ ] RAG
+- [ ] Vector Databases
+- [ ] LangChain
+- [ ] AI Agents
+
+## Behavioral
+
+- [ ] Tell Me About Yourself
+- [ ] Project Explanation
+- [ ] HR Questions
+
+## Mock Interviews
+
+- [ ] Python
+- [ ] SQL
+- [ ] Machine Learning
+- [ ] AI Engineering
 
 ---
-
-# 🛣️ Learning Order
-
-```text
-Python
-    ↓
-SQL
-    ↓
-Mathematics
-    ↓
-NumPy
-    ↓
-Pandas
-    ↓
-Matplotlib
-    ↓
-Machine Learning
-    ↓
-Deep Learning
-    ↓
-Computer Vision
-    ↓
-Natural Language Processing
-    ↓
-Generative AI
-    ↓
-Vector Databases
-    ↓
-RAG
-    ↓
-LangChain
-    ↓
-LlamaIndex
-    ↓
-AI Agents
-    ↓
-FastAPI
-    ↓
-Docker
-    ↓
-Cloud
-    ↓
-Projects
-    ↓
-Interview Preparation
-```
