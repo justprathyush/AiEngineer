@@ -4,14 +4,30 @@
 
 ---
 
-# Learning Philosophy
+## Table of Contents
 
-- Learn one topic at a time.
-- Build projects after every major topic.
-- Focus on understanding, not memorization.
-- Write notes in your own words.
-- Practice every day.
-- Never copy code without understanding it.
+- [Learning Philosophy](#learning-philosophy)
+- [Programming](#programming)
+- [SQL & Databases](#sql--databases)
+- [Mathematics](#mathematics)
+- [Python Libraries](#python-libraries)
+- [Data Analysis](#data-analysis)
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+- [Computer Vision](#computer-vision)
+- [Natural Language Processing](#natural-language-processing)
+- [Generative AI](#generative-ai)
+- [Vector Databases](#vector-databases)
+- [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
+- [AI Frameworks](#ai-frameworks)
+- [AI Agents](#ai-agents)
+- [APIs](#apis)
+- [Deployment](#deployment)
+- [Cloud](#cloud)
+- [MLOps](#mlops)
+- [Projects](#projects)
+- [Interview Preparation](#interview-preparation)
+- [Final Goal](#final-goal)
 
 ---
 
