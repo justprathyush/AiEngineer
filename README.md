@@ -1,7 +1,7 @@
 # AiEngineer
 
 Maths
-Pyhton
+\Pyhton
 Library:Numpy,Pandas,Matplotlib
 ML Fundamentals
 Frameworks:Scikit Learn
