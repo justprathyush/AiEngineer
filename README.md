@@ -6,7 +6,6 @@
 
 ## Table of Contents
 
-- [Learning Philosophy](#learning-philosophy)
 - [Programming](#programming)
 - [SQL & Databases](#sql--databases)
 - [Mathematics](#mathematics)
