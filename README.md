@@ -119,7 +119,7 @@ Below is a high-level study checklist. Check off items as you master them:
   - [ ] Model evaluation (cross-val, ROC, confusion matrix)  
 
 <details>
-<summary># AI Associates</summary>
+<summary>- #AI Associates</summary>
 
 **Goal:** Predict used car prices using regression.  
 **Key tasks:** EDA, data cleaning, feature engineering, model training (Linear, Random Forest, XGBoost), hyperparam tuning, comparison.  
