@@ -2,10 +2,6 @@
 
 > A hands-on portfolio documenting my journey to become an AI Engineer through real-world projects and labs.  
 
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) 
-![Python](https://img.shields.io/badge/Python-3.10-blue) 
-![Docker](https://img.shields.io/badge/Docker-informational?logo=docker) 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange) 
 
 ### 📖 Table of Contents
 
@@ -30,57 +26,15 @@
 ## 📖 Interview Questions 
 
 ##$ Machine Learning
-1. Series vs DataFrame
-2. Axis=0 vs Axis=1
-
-
----
-
-## 📂 Repository Structure
-
-The repo is organized chronologically by topic. Here’s the high-level layout:
-
-```text
-AI-Engineer-Bootcamp/
-├── README.md         # This file
-├── 01-Python/        
-├── 02-Statistics/    
-├── 03-Data-Analysis/ 
-├── 04-Machine-Learning/
-│   ├── AutoPricePrediction/
-│   ├── FlightPricePrediction/
-│   ├── HomeLoanDefault/
-│   └── HospitalStayPrediction/
-├── 05-DeepLearning/  
-├── 06-ComputerVision/
-├── 07-NLP/           
-├── 08-GenerativeAI/  
-├── 09-MLOps/         
-├── 10-Deployment/    
-├── datasets/         # shared data files
-├── notebooks/        # Jupyter notebooks for demos
-└── docs/             # (future: detailed markdown docs)
-```
-
-Each numbered folder contains tutorial notebooks and code for that topic. The project folders under Machine Learning contain end-to-end solutions to capstone problems. 
+1.Python List vs Numpy Array
+  **Python lists store mixed data types because they hold memory references (pointers) to objects, whereas NumPy arrays force a single data type because they store raw, unboxed data continuously in memory for fast mathematical processing.** [1, 2, 3]
+2.indexing and slicing
+3. Series vs DataFrame
+4. Axis=0 vs Axis=1
 
 ---
 
-## 🛠 Tech Stack
-
-- **Languages:** Python 3.x (primary), Bash  
-- **Data & ML:** NumPy, pandas, Scikit-Learn, XGBoost, LightGBM, CatBoost  
-- **Deep Learning:** TensorFlow 2.x, Keras, PyTorch  
-- **NLP:** HuggingFace Transformers, spaCy, NLTK  
-- **CV:** OpenCV, YOLOv5, Detectron2  
-- **MLOps/Deployment:** Docker, MLflow, DVC, FastAPI, Streamlit/Gradio  
-- **Cloud & Tools:** AWS (EC2, S3, SageMaker), Azure, GCP, Git/GitHub, VS Code  
-
-We also use libraries like Matplotlib/Seaborn for visualization, and GitHub Actions for CI/CD badges. 
-
----
-
-## 📖 Learning Roadmap
+## 📖 Learning
 
 Below is a high-level study checklist. Check off items as you master them:
 
