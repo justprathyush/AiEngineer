@@ -29,11 +29,36 @@
 <details>
 <summary>Machine Learning</summary>
  
-1.Python List vs Numpy Array
+1. Python List vs Numpy Array
   **Python lists store mixed data types because they hold memory references (pointers) to objects, whereas NumPy arrays force a single data type because they store raw, unboxed data continuously in memory for fast mathematical processing.** [1, 2, 3]
-2.indexing and slicing
+  
+2. indexing and slicing
 3. Series vs DataFrame
-4. Axis=0 vs Axis=1
+5. Axis=0 vs Axis=1
+6.  Classification vs Regression
+7.  underfitting vs Overfitting
+8.  Dealing Missing Values
+
+</details>
+
+<details>
+<summary>Python</summary>
+
+ 1. Shallow copy vs Deep copy
+
+</details>
+
+<details>
+<summary>Stats</summary>
+
+ 1. Mean, Median & Mode
+
+</details>
+
+<details>
+<summary>SQL</summary>
+
+ 1. 
 
 </details>
  
