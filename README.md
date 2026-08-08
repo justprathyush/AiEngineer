@@ -157,7 +157,7 @@ Ai Agents:
     *Can make decision
     *Can Execute Action
 Agentic AI: 
-    *Advan
+    *Advance form of AI where multi AI agents can plan work,execute task
 
 
 - [x] Exploratory Data Analysis (stats, visualization)  
@@ -168,6 +168,7 @@ Agentic AI:
 - [x] Derive business insights (pricing factors)  
 
 </details>
+
 - **Deep Learning**  
   - [ ] Neural networks (activation, backprop, optimizers)  
   - [ ] CNNs (image conv layers, pooling)  
