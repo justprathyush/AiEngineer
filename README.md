@@ -119,7 +119,7 @@ Below is a high-level study checklist. Check off items as you master them:
   - [ ] Model evaluation (cross-val, ROC, confusion matrix)  
 
 <details>
-<summary>🚗 **AI Associates **</summary>
+<summary># AI Associates</summary>
 
 **Goal:** Predict used car prices using regression.  
 **Key tasks:** EDA, data cleaning, feature engineering, model training (Linear, Random Forest, XGBoost), hyperparam tuning, comparison.  
@@ -157,16 +157,8 @@ Ai Agents:
     *Can make decision
     *Can Execute Action
 Agentic AI: 
-    *Advance form of AI where multi AI agents can plan work,execute task
-
-
-- [x] Exploratory Data Analysis (stats, visualization)  
-- [x] Handle missing values/outliers  
-- [x] Create features (age, mileage, brand encoding)  
-- [x] Train regression models & tune hyperparameters  
-- [x] Evaluate models (RMSE, R²)  
-- [x] Derive business insights (pricing factors)  
-
+    *Advance form of AI where multi AI agents can plan work,execute task  
+    
 </details>
 
 - **Deep Learning**  
