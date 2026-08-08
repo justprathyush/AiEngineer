@@ -118,6 +118,56 @@ Below is a high-level study checklist. Check off items as you master them:
   - [ ] Clustering (k-means, hierarchical)  
   - [ ] Model evaluation (cross-val, ROC, confusion matrix)  
 
+<details>
+<summary>🚗 **AI Associates **</summary>
+
+**Goal:** Predict used car prices using regression.  
+**Key tasks:** EDA, data cleaning, feature engineering, model training (Linear, Random Forest, XGBoost), hyperparam tuning, comparison.  
+**Checklist:**  
+## AI Foundation
+
+AI -> ML-> DL -> NLP -> GenAI-> AI agent -> Agentic AI
+
+AI: Machine mimic the human intelligence -> Learn, think, underland,image, make decision
+ML: A subset of AI -> where learn from data & learn the pattern.
+    *Supervisied Learning
+    *Unsuper
+
+DL: A subset of ML that uses artificial neural network with many language
+    *ANN: Basic type of neural network Work with both classification and regressions
+            cannot work with images
+            Input -> hidden -> Output Layer
+                        |
+                     tabular
+                        |
+                RSC problem
+    *RNN: designed to work with sequestional data (speach text)()
+    *CNN: work with image
+    *Lstm(long short term memory): its upadated version for rnn
+    *GRU(gated recuring unit): simplefied version lstm
+    *Auto Encorder: 1. An Autoencoder is a neural network that learns to:
+                    2. Compress the input into a smaller representation.
+    *GAN: A GAN is a deep learning model that generates new data that looks like real data.
+    *Transformer: The Transformer is the architecture behind modern Large Language Models (LLMs).
+    
+NLP: branch of computer to understand process & generate human language
+Gen AI: A type of AI That create new content 
+Ai Agents: 
+    *Can use multiple tool
+    *Can make decision
+    *Can Execute Action
+Agentic AI: 
+    *Advan
+
+
+- [x] Exploratory Data Analysis (stats, visualization)  
+- [x] Handle missing values/outliers  
+- [x] Create features (age, mileage, brand encoding)  
+- [x] Train regression models & tune hyperparameters  
+- [x] Evaluate models (RMSE, R²)  
+- [x] Derive business insights (pricing factors)  
+
+</details>
 - **Deep Learning**  
   - [ ] Neural networks (activation, backprop, optimizers)  
   - [ ] CNNs (image conv layers, pooling)  
@@ -266,63 +316,6 @@ Planned demos and write-ups to follow.
 
 ---
 
-## ⚡ MLOps & Deployment
-
-*(In development)* Tools and practices:
-
-- Containerizing ML apps with Docker  
-- Creating APIs (FastAPI) for model inference  
-- CI/CD with GitHub Actions  
-- Experiment tracking (MLflow dashboards)  
-- Model monitoring concepts  
-
-Detailed examples to be added.
-
----
-
-## 📈 4-Week Study Plan
-
-Below is a high-level schedule using a Mermaid timeline (GitHub renders Mermaid charts natively):
-
-```mermaid
-timeline
-    title 4-Week AI Engineer Bootcamp Plan
-    section Week 1
-      Setup & Python Basics : 1w
-      Git/GitHub & Tools    : 1w
-    section Week 2
-      Math & Data Analysis  : 2w
-      ML Basics (Theory + Project 1) : 1w
-    section Week 3
-      Deep Learning & NLP   : 1.5w
-      Project 2            : 0.5w
-    section Week 4
-      Deployment & MLOps    : 1w
-      Final Review & Exam   : 1w
-```
-
-Plan tasks at the start of each week and adjust as needed. This timeline shows key milestones.
-
----
-
-## 📊 Progress Tracker
-
-| **Topic**              | **Status**       |
-|------------------------|------------------|
-| Python Basics          | ✅ Completed     |
-| Statistics & Math      | ✅ Completed     |
-| SQL & Databases        | 🟨 In Progress    |
-| Data Analysis (EDA)    | ✅ Completed     |
-| Machine Learning       | 🟨 In Progress    |
-| Deep Learning          | ⬜ Not Started   |
-| Computer Vision        | ⬜ Not Started   |
-| NLP                    | ⬜ Not Started   |
-| Generative AI / LLMs   | ⬜ Not Started   |
-| MLOps / Deployment     | ⬜ Not Started   |
-
-Progress is updated as I complete sections. (Green=done, Yellow=in progress, White=not started.)
-
----
 
 ## 🏆 Certifications
 
@@ -335,40 +328,3 @@ Progress is updated as I complete sections. (Green=done, Yellow=in progress, Whi
 *(Add links or badge images if desired.)*
 
 ---
-
-## 📜 License
-
-This bootcamp portfolio is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
-
----
-
-## 🎨 Color Palette (Example)
-
-For best readability, use a consistent theme. Example palettes:
-
-- **Light Theme:** Background `#FFFFFF`, text `#333333`, accent `#2563EB`.  
-- **Dark Theme:** Background `#0D1117`, text `#C9D1D9`, accent `#58A6FF`.  
-
-Adjust badges and images to match your chosen palette.
-
----
-
-## 🛠️ Implementation
-
-To apply this README:
-
-1. Copy this Markdown into your `README.md`.  
-2. Update sections with your details, links, and any images.  
-3. Verify links and diagrams render correctly on GitHub.  
-4. Commit and push to your repo.
-
-```bash
-git add README.md
-git commit -m "Add polished AI Engineer Bootcamp README"
-git push
-```
-
-Congratulations! Your `README.md` should now present a clean, interactive, and comprehensive overview of your AI Engineer Bootcamp portfolio.
-
-```  
-
