@@ -29,17 +29,10 @@
 
 ## 📖 Interview Questions 
 
-- **Programming:** Master Python syntax, OOP, libraries.  
-- **Math & Stats:** Learn linear algebra, calculus basics, probability, and statistics.  
-- **Data Analysis:** Practice with pandas, NumPy, data visualization (Matplotlib/Seaborn).  
-- **Machine Learning:** Supervised (regression/classification), unsupervised (clustering), model evaluation (ROC-AUC, cross-validation).  
-- **Deep Learning:** Neural networks (ANN, CNNs, RNNs/LSTMs), transfer learning.  
-- **Computer Vision:** Image classification, object detection, OCR techniques.  
-- **Natural Language Processing:** Text cleaning, tokenization, embeddings, transformers (BERT, GPT).  
-- **Generative AI:** Large language models, prompt engineering, RAG (Retrieval-Augmented Generation).  
-- **MLOps / Deployment:** Docker, FastAPI/Flask, CI/CD, MLflow, and cloud platforms (AWS/Azure/GCP).  
+##$ Machine Learning
+1. Series vs DataFrame
+2. Axis=0 vs Axis=1
 
-Each item above corresponds to dedicated sections and projects in this repo.
 
 ---
 
