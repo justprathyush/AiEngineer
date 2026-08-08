@@ -27,15 +27,7 @@
 
 ---
 
-## 📖 Introduction
-
-Welcome! This **AI Engineer Bootcamp** repository is my personal learning portfolio for AI, Machine Learning, and Data Science. It includes structured lessons, projects, and notes covering: Python, statistics, machine learning (regression, classification, clustering), deep learning, computer vision, NLP, generative AI, and MLOps. Each section/project has a clear workflow, code, and documentation. The goal is to demonstrate practical skills from data analysis to deploying AI models.
-
----
-
-## 🚀 AI Engineer Roadmap
-
-This is my planned path to proficiency:
+## 📖 Interview Questions 
 
 - **Programming:** Master Python syntax, OOP, libraries.  
 - **Math & Stats:** Learn linear algebra, calculus basics, probability, and statistics.  
