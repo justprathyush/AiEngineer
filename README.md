@@ -26,8 +26,8 @@
 ## 📖 Interview Questions 
 
 
-
-<summary>#Machine Learning</summary>
+<details>
+<summary>Machine Learning</summary>
  
 1.Python List vs Numpy Array
   **Python lists store mixed data types because they hold memory references (pointers) to objects, whereas NumPy arrays force a single data type because they store raw, unboxed data continuously in memory for fast mathematical processing.** [1, 2, 3]
@@ -35,6 +35,8 @@
 3. Series vs DataFrame
 4. Axis=0 vs Axis=1
 
+</details>
+ 
 ---
 
 ## 📖 Learning
