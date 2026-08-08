@@ -66,7 +66,7 @@
 <details>
 <summary>DL</summary>
 
- 1. Forward Proprotion vs Backward Propagation
+ 1. Forward Proprotion vs BackPropagation
 
     Forward propagation is when input data moves through the neural network to produce a prediction.
 
