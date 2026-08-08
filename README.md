@@ -7,7 +7,7 @@
 ![Docker](https://img.shields.io/badge/Docker-informational?logo=docker) 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange) 
 
-## 📖 Table of Contents
+### 📖 Table of Contents
 
 - [Introduction](#introduction)  
 - [AI Engineer Roadmap](#ai-engineer-roadmap)  
