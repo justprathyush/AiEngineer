@@ -30,10 +30,10 @@
 <summary>Machine Learning</summary>
  
 1. Python List vs Numpy Array
-  **Python lists store mixed data types because they hold memory references (pointers) to objects, whereas NumPy arrays force a single data type because they store raw, unboxed data continuously in memory for fast mathematical processing.** [1, 2, 3]
+   **Python lists store mixed data types because they hold memory references (pointers) to objects, whereas NumPy arrays force a single data type because they store raw, unboxed data continuously in memory for fast mathematical processing.** [1, 2, 3]
   
-2. indexing and slicing
-3. Series vs DataFrame
+3. indexing and slicing
+4. Series vs DataFrame
 5. Axis=0 vs Axis=1
 6.  Classification vs Regression
 7.  underfitting vs Overfitting
@@ -45,6 +45,7 @@
 <summary>Python</summary>
 
  1. Shallow copy vs Deep copy
+ 2. List comprehension
 
 </details>
 
@@ -59,6 +60,17 @@
 <summary>SQL</summary>
 
  1. 
+
+</details>
+
+<details>
+<summary>DL</summary>
+
+ 1. Forward Proprotion vs Backward Propagation
+
+    Forward propagation is when input data moves through the neural network to produce a prediction.
+
+    Backpropagation is the process of sending the error backward through the network to calculate how the weights contributed to the error, so the weights can be updated and the model can improve.
 
 </details>
  
