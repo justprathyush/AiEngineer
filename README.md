@@ -92,16 +92,62 @@ or
 
 Below is a high-level study checklist. Check off items as you master them:
 
-- **Python & Fundamentals**  
-  - [x] Syntax, data types, control flow  
-  - [ ] Functions, OOP, modules  
-  - [ ] Advanced features (decorators, generators)  
+ 
 
 - **Mathematics & Statistics**  
   - [ ] Linear algebra (matrices, eigenvectors)  
   - [ ] Calculus basics (derivatives)  
-  - [ ] Probability & distributions (Normal, Bayes)  
+  - [ ] Probability & distributions (Normal, Bayes)
+  - [ ] Discrete Mathematics
   - [ ] Statistical tests (hypothesis testing)  
+
+- **Python & Fundamentals**  
+  - [x] Syntax, data types, control flow  
+  - [ ] Functions, OOP, modules  
+  - [ ] Advanced features (decorators, generators)
+  DSA
+  - [ ] Array
+  - [ ] Linkedlist
+  - [ ] Array
+  - [ ] Queue
+  - [ ] Trees
+  Libraries
+  - [ ] Numpy
+  - [ ] Pandas
+  - [ ] Regex
+  - [ ] Opencv
+  - [ ] Matplotlib (Data Visualization )
+  - [ ] Seaborn
+  - [ ] Scikit-Learn
+
+- **Machine Learning**
+  ## Supervised Learning
+   - [ ] Regression (linear, polynomial, regularized)
+   - [ ] Classification (logistic, trees, SVM, ensemble) 
+  ## Unsupervised Learning
+   - [ ] Clustering (k-means, hierarchical)
+   - [ ] Model evaluation (cross-val, ROC, confusion matrix)  
+  ## Reinforcement Learning
+
+  - **Deep Learning**  
+   - [ ] Neural networks (activation, backprop, optimizers)
+   - [ ] ANN 
+   - [ ] CNNs (image conv layers, pooling)  
+   - [ ] RNNs/LSTM (sequence data)
+   - [ ] GAN
+   - [ ] Transformers (self-attention, BERT, GPT)
+
+- **LLMs**
+  - **Natural Language Processing**  
+  - [ ] Text preprocessing (tokenize, stem, lemmatize)  
+  - [ ] Embeddings (Word2Vec, BERT vectors)  
+  - [ ] Sentiment analysis, NER, topic modeling  
+  - [ ] Transformer-based NLP (fine-tuning GPT/BERT)  
+
+- **Generative AI & LLMs**  
+  - [ ] Prompt engineering techniques  
+  - [ ] Building a RAG system (vectors + LLM)  
+  - [ ] AI agents and multi-step chains (LangChain)  
 
 - **SQL & Databases**  
   - [ ] Basic queries (SELECT, JOIN)  
@@ -113,11 +159,7 @@ Below is a high-level study checklist. Check off items as you master them:
   - [ ] Missing values, outlier handling  
   - [ ] Feature engineering & dimensionality reduction  
 
-- **Machine Learning**  
-  - [ ] Regression (linear, polynomial, regularized)  
-  - [ ] Classification (logistic, trees, SVM, ensemble)  
-  - [ ] Clustering (k-means, hierarchical)  
-  - [ ] Model evaluation (cross-val, ROC, confusion matrix)  
+
 
 <details>
 <summary>- #AI Associates</summary>
@@ -162,11 +204,7 @@ Agentic AI:
     
 </details>
 
-- **Deep Learning**  
-  - [ ] Neural networks (activation, backprop, optimizers)  
-  - [ ] CNNs (image conv layers, pooling)  
-  - [ ] RNNs/LSTM (sequence data)  
-  - [ ] Transformers (self-attention, BERT, GPT)  
+
 
 - **Computer Vision**  
   - [ ] Image classification workflows  
@@ -174,16 +212,7 @@ Agentic AI:
   - [ ] Image segmentation basics  
   - [ ] OCR (text extraction)  
 
-- **Natural Language Processing**  
-  - [ ] Text preprocessing (tokenize, stem, lemmatize)  
-  - [ ] Embeddings (Word2Vec, BERT vectors)  
-  - [ ] Sentiment analysis, NER, topic modeling  
-  - [ ] Transformer-based NLP (fine-tuning GPT/BERT)  
 
-- **Generative AI & LLMs**  
-  - [ ] Prompt engineering techniques  
-  - [ ] Building a RAG system (vectors + LLM)  
-  - [ ] AI agents and multi-step chains (LangChain)  
 
 - **MLOps & Deployment**  
   - [ ] Containerization (Docker images)  
