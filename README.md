@@ -75,6 +75,18 @@
 </details>
  
 ---
+## AI Engineer
+
+AI System | AI Components
+- Design
+- Develop
+- Deploy
+
+or
+
+- AI/ML
+- Data
+- Backend Development
 
 ## 📖 Learning
 
