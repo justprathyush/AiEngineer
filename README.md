@@ -121,7 +121,91 @@ Below is a high-level study checklist. Check off items as you master them:
   - [ ] Scikit-Learn
 
 - **Machine Learning**
-  ## Supervised Learning
+
+1. Problem Statement
+2. Collect Data
+3. Importing Necessary libraries --->numpy
+   1. numpy
+   2. pandas
+   3. matplotlib
+   4. Seaborn
+   5. scikit lean
+4. Load Dataset
+5. Basic Check. 
+   1. .head()
+   2. .tail()
+   3. .info()
+   4. .describe()
+  
+6. EDA visualiind the data(plots)( distribution)
+   1. find missing value
+   2. find outliers
+   3. find duplicate
+   4. find corrupt data
+   5. finf the irellavent data
+
+7. DATA PREposing
+   1. Handling missing dataduplicate
+      1. corrupt data
+      2. irrlavent data
+      3. outliers
+   3. Scaling
+   4. Tranformer
+   5. Converting categorical fata into
+      numerical -> by encoring
+
+8. Feature Selecting:
+   1. Heatmap [correlation]
+   2. 
+   
+10. Model creation
+    1. Defing independent & depedentent variable
+    2. Train test split
+       1. 80% trarinig |-----------|------------|
+       3. 20% test
+    3. Model creation with ml algoritm
+       1. Regression
+          1. Liner regression
+          2. Logistic regrerssion
+          3. KNN Regresioe <- KNN -> KNN Classifer
+          4. Deviion Tress REgressoe <- Devion Tree-> Decision Tree Classifirer
+          5. SVr <- SVM -> svc
+       3. Classification
+
+11. Moddel Evaluation: By using evaluation metrics
+    1. Supervised ML
+       1. re
+       2. cl
+    3. knn
+       1. silhote
+      
+       2. 
+12. Model Deployment
+       
+  <details>
+<summary>Supervised Learning</summary>
+
+
+
+
+ 1. Numerical---->
+    1. Continous (Infinite) hieigh, weight
+    2. Discrete (finite) Age, person in a rooom
+2. `---->
+   1. Ordinal ()
+   2. Nominal
+   
+
+2. multi-class clasaiificatiion
+
+ example: Diamond dataset
+
+          color | Lab | dimension | Class
+          
+ 
+</details>
+
+  ## 
    - [ ] Regression (linear, polynomial, regularized)
    - [ ] Classification (logistic, trees, SVM, ensemble) 
   ## Unsupervised Learning
