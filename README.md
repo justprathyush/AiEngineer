@@ -159,13 +159,17 @@ Below is a high-level study checklist. Check off items as you master them:
 
 8. Feature Selecting:
    1. Heatmap [correlation]
-   2. 
    
-10. Model creation
+9. Model creation
     1. Defing independent & depedentent variable
     2. Train test split
-       1. 80% trarinig |-----------|------------|
-       3. 20% test
+       1.              |-----------|------------|
+          80% trarinig |X-train    |Y-train     |
+                       |-----------|------------|
+          20% test     |X-test     |Y-test      |
+                       |-----------|------------|
+                       
+       3. 
     3. Model creation with ml algoritm
        1. Regression
           1. Liner regression
@@ -175,7 +179,7 @@ Below is a high-level study checklist. Check off items as you master them:
           5. SVr <- SVM -> svc
        3. Classification
 
-11. Moddel Evaluation: By using evaluation metrics
+10. Moddel Evaluation: By using evaluation metrics
     1. Supervised ML
        1. re
        2. cl
@@ -185,7 +189,7 @@ Below is a high-level study checklist. Check off items as you master them:
        2. 
 12. Model Deployment
 
-</details>
+  </details>
        
   <details>
 <summary>Supervised Learning</summary>
@@ -206,8 +210,20 @@ Below is a high-level study checklist. Check off items as you master them:
  example: Diamond dataset
 
           color | Lab | dimension | Class
-          
- 
+
+  1. Linaer Regression: comes umder Labeled ML
+
+     i/p  o/p
+     x     y
+     1     2
+     2     4
+     3     6
+     4     8
+     5     10
+
+
+     marks  |
+
 </details>
 
   ## 
