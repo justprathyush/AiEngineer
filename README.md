@@ -122,6 +122,9 @@ Below is a high-level study checklist. Check off items as you master them:
 
 - **Machine Learning**
 
+  <details>
+<summary>workFlow</summary>
+
 1. Problem Statement
 2. Collect Data
 3. Importing Necessary libraries --->numpy
@@ -181,6 +184,8 @@ Below is a high-level study checklist. Check off items as you master them:
       
        2. 
 12. Model Deployment
+
+</details>
        
   <details>
 <summary>Supervised Learning</summary>
